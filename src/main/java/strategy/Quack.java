@@ -1,4 +1,4 @@
-package org.ayush.strategy;
+package strategy;
 
 public class Quack implements QuackBehaviour {
     @Override

@@ -1,4 +1,4 @@
-package org.ayush.observer;
+package observer;
 
 public class HeatIndexDisplay implements Observer, DisplayElement{
     private float heatIndex;

@@ -1,4 +1,4 @@
-package org.ayush.observer;
+package observer;
 
 public class CurrentConditionDisplay implements Observer, DisplayElement{
     private float temperature;

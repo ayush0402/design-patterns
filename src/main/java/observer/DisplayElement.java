@@ -1,4 +1,4 @@
-package org.ayush.observer;
+package observer;
 
 public interface DisplayElement {
     public void display();

@@ -1,4 +1,4 @@
-package org.ayush.strategy;
+package strategy;
 
 public class MuteQuack implements QuackBehaviour {
     @Override

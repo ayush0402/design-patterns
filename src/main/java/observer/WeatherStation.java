@@ -1,4 +1,4 @@
-package org.ayush.observer;
+package observer;
 
 public class WeatherStation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.ayush.strategy;
+package strategy;
 
 public class FlyRocketPowered implements FlyBehaviour {
     @Override

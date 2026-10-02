@@ -1,4 +1,4 @@
-package org.ayush.strategy;
+package strategy;
 
 public interface QuackBehaviour {
     public void quack();

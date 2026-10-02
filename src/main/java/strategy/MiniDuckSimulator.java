@@ -1,4 +1,4 @@
-package org.ayush.strategy;
+package strategy;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

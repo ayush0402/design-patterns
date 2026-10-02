@@ -1,4 +1,4 @@
-package org.ayush.observer;
+package observer;
 
 import java.util.ArrayList;
 import java.util.List;
